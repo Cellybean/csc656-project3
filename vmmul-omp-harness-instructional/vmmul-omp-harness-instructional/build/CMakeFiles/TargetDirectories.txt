@@ -1,0 +1,7 @@
+/mnt/Downloads/vmmul-omp-harness-instructional/build/CMakeFiles/benchmark.dir
+/mnt/Downloads/vmmul-omp-harness-instructional/build/CMakeFiles/benchmark-basic.dir
+/mnt/Downloads/vmmul-omp-harness-instructional/build/CMakeFiles/benchmark-vectorized.dir
+/mnt/Downloads/vmmul-omp-harness-instructional/build/CMakeFiles/benchmark-blas.dir
+/mnt/Downloads/vmmul-omp-harness-instructional/build/CMakeFiles/benchmark-openmp.dir
+/mnt/Downloads/vmmul-omp-harness-instructional/build/CMakeFiles/edit_cache.dir
+/mnt/Downloads/vmmul-omp-harness-instructional/build/CMakeFiles/rebuild_cache.dir
